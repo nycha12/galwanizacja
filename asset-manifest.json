@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Galwanizacja/static/css/main.6f4d5414.css",
-    "main.js": "/Galwanizacja/static/js/main.d5a244b3.js",
+    "main.js": "/Galwanizacja/static/js/main.a33fdf02.js",
     "static/media/background.jpg": "/Galwanizacja/static/media/background.e24e0257edfdd3c78ba3.jpg",
     "index.html": "/Galwanizacja/index.html",
     "main.6f4d5414.css.map": "/Galwanizacja/static/css/main.6f4d5414.css.map",
-    "main.d5a244b3.js.map": "/Galwanizacja/static/js/main.d5a244b3.js.map"
+    "main.a33fdf02.js.map": "/Galwanizacja/static/js/main.a33fdf02.js.map"
   },
   "entrypoints": [
     "static/css/main.6f4d5414.css",
-    "static/js/main.d5a244b3.js"
+    "static/js/main.a33fdf02.js"
   ]
 }
