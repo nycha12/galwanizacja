@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/galwanizacja/static/css/main.ff43a723.css",
-    "main.js": "/galwanizacja/static/js/main.7552f230.js",
+    "main.css": "/galwanizacja/static/css/main.f3bcc99c.css",
+    "main.js": "/galwanizacja/static/js/main.f5c513ea.js",
     "static/media/background.jpg": "/galwanizacja/static/media/background.e24e0257edfdd3c78ba3.jpg",
     "index.html": "/galwanizacja/index.html",
-    "main.ff43a723.css.map": "/galwanizacja/static/css/main.ff43a723.css.map",
-    "main.7552f230.js.map": "/galwanizacja/static/js/main.7552f230.js.map"
+    "main.f3bcc99c.css.map": "/galwanizacja/static/css/main.f3bcc99c.css.map",
+    "main.f5c513ea.js.map": "/galwanizacja/static/js/main.f5c513ea.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff43a723.css",
-    "static/js/main.7552f230.js"
+    "static/css/main.f3bcc99c.css",
+    "static/js/main.f5c513ea.js"
   ]
 }
